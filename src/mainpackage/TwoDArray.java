@@ -29,7 +29,7 @@ public class TwoDArray {
 
         }
         System.out.println(string1 + " " + string2);
-        if (trueCounter >= string1.length())
+        if (trueCounter > string1.length())
 
             System.out.println("these strings have the same letters");
         else
